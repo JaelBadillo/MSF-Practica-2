@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Sistema respiratorio'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: l22210409@tectijuana.edu.mx
+    given-names: 'Jael '
+    name-particle: Badillo
+    affiliation: Tecnologico Nacional de Mexico
+  - given-names: Ashley Dayanna
+    name-particle: Panzzi
+    email: l22210424@tectijuana.edu.mx
+    affiliation: Tecnologico Nacional de Mexico
+keywords:
+  - 'https://github.com/JaelBadillo/MSF-Practica-2'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-28'
